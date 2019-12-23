@@ -1,6 +1,7 @@
 # RaccoonGame
 Crossroad Phaser game. Доведи енотов в Elbrus
-Проект на heroku [http://dogfinderapp.herokuapp.com/](http://dogfinderapp.herokuapp.com/)
+
+![game](https://i.imgur.com/tpDFxCr.png)
 
 ## О приложении
 
